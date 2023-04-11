@@ -1,5 +1,6 @@
 # ProShop
-Config files for my GitHub profile.
+
+# [Youtube link] https://youtu.be/5SoJ1pq1MEA
 
 Run Application: npm run dev
 
